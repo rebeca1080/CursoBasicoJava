@@ -23,7 +23,7 @@ Cada tarefa possui os seguintes atributos:
 |-----------|------|-------------------------------------------------------|
 | `titulo` | String | **Obrigatório** — título da tarefa                    |
 | `descricao` | String | Opcional — detalhes da tarefa                         |
-| `dataDeEntrega` | LocalDate | Data da entrega                                       |
+| `datadeEntrega` | LocalDate | Data da entrega                                       |
 | `status` | boolean | Indica se a tarefa está concluída (`true` ou `false`) |
 
 ---
